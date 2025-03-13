@@ -15,7 +15,7 @@
     "mixpanel": "^0.18.0",
     "object-to-formdata": "^4.5.1",
     "pino": "^8.19.0",
-    "pocketbase": "^0.21.2",
+    "pocketbase": "^0.25.1",
     "sharp": "^0.32.6",
     "ua-parser-js": "^1.0.37",
     "ws": "^8.14.2"
