@@ -17,7 +17,7 @@
     "pino": "^8.19.0",
     "pocketbase": "^0.21.2",
     "sharp": "^0.32.6",
-    "ua-parser-js": "^1.0.37",
+    "ua-parser-js": "^1.0.40",
     "ws": "^8.14.2"
   },
   "devDependencies": {
