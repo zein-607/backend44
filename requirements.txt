@@ -1,5 +1,5 @@
 benzinga
-urllib3==1.26.18
+urllib3==2.5.0
 yfinance
 datetime
 pandas
@@ -40,3 +40,5 @@ fuzzywuzzy
 python-Levenshtein
 plotly==5.23.0
 kaleido==0.2.1
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+pycares>=4.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
