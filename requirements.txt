@@ -40,3 +40,4 @@ fuzzywuzzy
 python-Levenshtein
 plotly==5.23.0
 kaleido==0.2.1
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
